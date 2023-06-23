@@ -1,4 +1,5 @@
 {
+    "newrelic": "latest"
     "name": "microservices-demo-api-test",
     "nicename": "Microservices demo API test",
     "version": "0.0.1",
